@@ -1,5 +1,4 @@
 # Recipe-Recommender-Assignment-EDA
-# Recipe-Recommender-Assignment-EDA
 ## Problem Statement
 
 In this project, we will utilize PySpark, a distributed computing framework for processing large-scale data, to build a recommendation system. The PySpark implementation will be deployed on AWS (Amazon Web Services) using EMR (Elastic MapReduce) instances, which provide a scalable and cost-effective way to process large datasets. We will also use s3, an object storage service provided by AWS, to store and retrieve data. By leveraging these technologies, we can efficiently handle the data and compute resources required to build an effective recommendation system.
